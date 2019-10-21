@@ -12,7 +12,7 @@ class Chesser():
       self.invalid_message = 'Unknown piece: {}. Valid option are: {}'.format(self.piece, self.all_pieces)
       return False
     if self.col not in self.all_cols:
-      self.invalid_message = 'Row must be between a and h. {} was given'.format(self.col)
+      self.invalid_message = 'Row must be between A and H. {} was given'.format(self.col)
       return False
 
     if self.row not in range(1, 9):

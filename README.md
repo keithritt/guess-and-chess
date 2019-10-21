@@ -10,7 +10,7 @@ You can also run it in test mode by running:
 
 python guesser.py test
 
-The program will then test every number 1-100. 
+The program will then set n to 100 and test every posible number. 
 The output of which can be found at: guess-test.log
 
 ## chess

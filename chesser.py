@@ -126,11 +126,8 @@ class Chesser():
 
   @staticmethod
   def test_all():
-    #print('test_all()')
     for piece in Chesser.all_pieces:
-      #print(piece)
       for col in Chesser.all_cols:
-        #print(col)
         for row in range(1,9):
           position = Chesser.combine_position(col, row)
           print('Now testing piece: {} at position: {}'.format(piece, position))

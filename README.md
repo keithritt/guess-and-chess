@@ -1,6 +1,6 @@
-## guess-and-chess
+# guess-and-chess
 
-# guess
+## guess
 
 To run the guessing game please run:
 
@@ -13,7 +13,7 @@ python guesser.py test
 The program will then test every number 1-100. 
 The output of which can be found at: guess-test.log
 
-# chess
+## chess
 
 To run the chess program please run:
 

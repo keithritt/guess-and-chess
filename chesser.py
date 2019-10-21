@@ -140,7 +140,3 @@ class Chesser():
             print(chesser.get_available_moves())
           else:
             print(chesser.invalid_message)
-
-
-
-

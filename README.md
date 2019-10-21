@@ -17,7 +17,7 @@ The output of which can be found at: guess-test.log
 
 To run the chess program please run:
 
-python chessercise.py -piece <piece name> -position <position>
+python chessercise.py -piece (piece name) -position (position)
   
 For example: 
 python chessercise.py -piece pawn -position a1

@@ -1,0 +1,2030 @@
+Test Number: 1
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+h
+ok - i will guess a number between 1 and 24
+12?
+h
+ok - i will guess a number between 1 and 11
+6?
+h
+ok - i will guess a number between 1 and 5
+3?
+h
+ok - i will guess a number between 1 and 2
+1?
+c
+Your number is 1.
+It took me 6 guesses.
+I averaged 6.0 guesses per game for 1 game.
+Test Number: 2
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+h
+ok - i will guess a number between 1 and 24
+12?
+h
+ok - i will guess a number between 1 and 11
+6?
+h
+ok - i will guess a number between 1 and 5
+3?
+h
+ok - i will guess a number between 1 and 2
+1?
+l
+Your number is 2.
+It took me 6 guesses.
+I averaged 6.0 guesses per game for 2 games.
+Test Number: 3
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+h
+ok - i will guess a number between 1 and 24
+12?
+h
+ok - i will guess a number between 1 and 11
+6?
+h
+ok - i will guess a number between 1 and 5
+3?
+c
+Your number is 3.
+It took me 5 guesses.
+I averaged 5.67 guesses per game for 3 games.
+Test Number: 4
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+h
+ok - i will guess a number between 1 and 24
+12?
+h
+ok - i will guess a number between 1 and 11
+6?
+h
+ok - i will guess a number between 1 and 5
+3?
+l
+ok - i will guess a number between 4 and 5
+4?
+c
+Your number is 4.
+It took me 6 guesses.
+I averaged 5.75 guesses per game for 4 games.
+Test Number: 5
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+h
+ok - i will guess a number between 1 and 24
+12?
+h
+ok - i will guess a number between 1 and 11
+6?
+h
+ok - i will guess a number between 1 and 5
+3?
+l
+ok - i will guess a number between 4 and 5
+4?
+l
+Your number is 5.
+It took me 6 guesses.
+I averaged 5.8 guesses per game for 5 games.
+Test Number: 6
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+h
+ok - i will guess a number between 1 and 24
+12?
+h
+ok - i will guess a number between 1 and 11
+6?
+c
+Your number is 6.
+It took me 4 guesses.
+I averaged 5.5 guesses per game for 6 games.
+Test Number: 7
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+h
+ok - i will guess a number between 1 and 24
+12?
+h
+ok - i will guess a number between 1 and 11
+6?
+l
+ok - i will guess a number between 7 and 11
+9?
+h
+ok - i will guess a number between 7 and 8
+7?
+c
+Your number is 7.
+It took me 6 guesses.
+I averaged 5.57 guesses per game for 7 games.
+Test Number: 8
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+h
+ok - i will guess a number between 1 and 24
+12?
+h
+ok - i will guess a number between 1 and 11
+6?
+l
+ok - i will guess a number between 7 and 11
+9?
+h
+ok - i will guess a number between 7 and 8
+7?
+l
+Your number is 8.
+It took me 6 guesses.
+I averaged 5.62 guesses per game for 8 games.
+Test Number: 9
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+h
+ok - i will guess a number between 1 and 24
+12?
+h
+ok - i will guess a number between 1 and 11
+6?
+l
+ok - i will guess a number between 7 and 11
+9?
+c
+Your number is 9.
+It took me 5 guesses.
+I averaged 5.56 guesses per game for 9 games.
+Test Number: 10
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+h
+ok - i will guess a number between 1 and 24
+12?
+h
+ok - i will guess a number between 1 and 11
+6?
+l
+ok - i will guess a number between 7 and 11
+9?
+l
+ok - i will guess a number between 10 and 11
+10?
+c
+Your number is 10.
+It took me 6 guesses.
+I averaged 5.6 guesses per game for 10 games.
+Test Number: 11
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+h
+ok - i will guess a number between 1 and 24
+12?
+h
+ok - i will guess a number between 1 and 11
+6?
+l
+ok - i will guess a number between 7 and 11
+9?
+l
+ok - i will guess a number between 10 and 11
+10?
+l
+Your number is 11.
+It took me 6 guesses.
+I averaged 5.64 guesses per game for 11 games.
+Test Number: 12
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+h
+ok - i will guess a number between 1 and 24
+12?
+c
+Your number is 12.
+It took me 3 guesses.
+I averaged 5.42 guesses per game for 12 games.
+Test Number: 13
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+h
+ok - i will guess a number between 1 and 24
+12?
+l
+ok - i will guess a number between 13 and 24
+18?
+h
+ok - i will guess a number between 13 and 17
+15?
+h
+ok - i will guess a number between 13 and 14
+13?
+c
+Your number is 13.
+It took me 6 guesses.
+I averaged 5.46 guesses per game for 13 games.
+Test Number: 14
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+h
+ok - i will guess a number between 1 and 24
+12?
+l
+ok - i will guess a number between 13 and 24
+18?
+h
+ok - i will guess a number between 13 and 17
+15?
+h
+ok - i will guess a number between 13 and 14
+13?
+l
+Your number is 14.
+It took me 6 guesses.
+I averaged 5.5 guesses per game for 14 games.
+Test Number: 15
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+h
+ok - i will guess a number between 1 and 24
+12?
+l
+ok - i will guess a number between 13 and 24
+18?
+h
+ok - i will guess a number between 13 and 17
+15?
+c
+Your number is 15.
+It took me 5 guesses.
+I averaged 5.47 guesses per game for 15 games.
+Test Number: 16
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+h
+ok - i will guess a number between 1 and 24
+12?
+l
+ok - i will guess a number between 13 and 24
+18?
+h
+ok - i will guess a number between 13 and 17
+15?
+l
+ok - i will guess a number between 16 and 17
+16?
+c
+Your number is 16.
+It took me 6 guesses.
+I averaged 5.5 guesses per game for 16 games.
+Test Number: 17
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+h
+ok - i will guess a number between 1 and 24
+12?
+l
+ok - i will guess a number between 13 and 24
+18?
+h
+ok - i will guess a number between 13 and 17
+15?
+l
+ok - i will guess a number between 16 and 17
+16?
+l
+Your number is 17.
+It took me 6 guesses.
+I averaged 5.53 guesses per game for 17 games.
+Test Number: 18
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+h
+ok - i will guess a number between 1 and 24
+12?
+l
+ok - i will guess a number between 13 and 24
+18?
+c
+Your number is 18.
+It took me 4 guesses.
+I averaged 5.44 guesses per game for 18 games.
+Test Number: 19
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+h
+ok - i will guess a number between 1 and 24
+12?
+l
+ok - i will guess a number between 13 and 24
+18?
+l
+ok - i will guess a number between 19 and 24
+21?
+h
+ok - i will guess a number between 19 and 20
+19?
+c
+Your number is 19.
+It took me 6 guesses.
+I averaged 5.47 guesses per game for 19 games.
+Test Number: 20
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+h
+ok - i will guess a number between 1 and 24
+12?
+l
+ok - i will guess a number between 13 and 24
+18?
+l
+ok - i will guess a number between 19 and 24
+21?
+h
+ok - i will guess a number between 19 and 20
+19?
+l
+Your number is 20.
+It took me 6 guesses.
+I averaged 5.5 guesses per game for 20 games.
+Test Number: 21
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+h
+ok - i will guess a number between 1 and 24
+12?
+l
+ok - i will guess a number between 13 and 24
+18?
+l
+ok - i will guess a number between 19 and 24
+21?
+c
+Your number is 21.
+It took me 5 guesses.
+I averaged 5.48 guesses per game for 21 games.
+Test Number: 22
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+h
+ok - i will guess a number between 1 and 24
+12?
+l
+ok - i will guess a number between 13 and 24
+18?
+l
+ok - i will guess a number between 19 and 24
+21?
+l
+ok - i will guess a number between 22 and 24
+23?
+h
+Your number is 22.
+It took me 6 guesses.
+I averaged 5.5 guesses per game for 22 games.
+Test Number: 23
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+h
+ok - i will guess a number between 1 and 24
+12?
+l
+ok - i will guess a number between 13 and 24
+18?
+l
+ok - i will guess a number between 19 and 24
+21?
+l
+ok - i will guess a number between 22 and 24
+23?
+c
+Your number is 23.
+It took me 6 guesses.
+I averaged 5.52 guesses per game for 23 games.
+Test Number: 24
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+h
+ok - i will guess a number between 1 and 24
+12?
+l
+ok - i will guess a number between 13 and 24
+18?
+l
+ok - i will guess a number between 19 and 24
+21?
+l
+ok - i will guess a number between 22 and 24
+23?
+l
+Your number is 24.
+It took me 6 guesses.
+I averaged 5.54 guesses per game for 24 games.
+Test Number: 25
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+c
+Your number is 25.
+It took me 2 guesses.
+I averaged 5.4 guesses per game for 25 games.
+Test Number: 26
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+l
+ok - i will guess a number between 26 and 49
+37?
+h
+ok - i will guess a number between 26 and 36
+31?
+h
+ok - i will guess a number between 26 and 30
+28?
+h
+ok - i will guess a number between 26 and 27
+26?
+c
+Your number is 26.
+It took me 6 guesses.
+I averaged 5.42 guesses per game for 26 games.
+Test Number: 27
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+l
+ok - i will guess a number between 26 and 49
+37?
+h
+ok - i will guess a number between 26 and 36
+31?
+h
+ok - i will guess a number between 26 and 30
+28?
+h
+ok - i will guess a number between 26 and 27
+26?
+l
+Your number is 27.
+It took me 6 guesses.
+I averaged 5.44 guesses per game for 27 games.
+Test Number: 28
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+l
+ok - i will guess a number between 26 and 49
+37?
+h
+ok - i will guess a number between 26 and 36
+31?
+h
+ok - i will guess a number between 26 and 30
+28?
+c
+Your number is 28.
+It took me 5 guesses.
+I averaged 5.43 guesses per game for 28 games.
+Test Number: 29
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+l
+ok - i will guess a number between 26 and 49
+37?
+h
+ok - i will guess a number between 26 and 36
+31?
+h
+ok - i will guess a number between 26 and 30
+28?
+l
+ok - i will guess a number between 29 and 30
+29?
+c
+Your number is 29.
+It took me 6 guesses.
+I averaged 5.45 guesses per game for 29 games.
+Test Number: 30
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+l
+ok - i will guess a number between 26 and 49
+37?
+h
+ok - i will guess a number between 26 and 36
+31?
+h
+ok - i will guess a number between 26 and 30
+28?
+l
+ok - i will guess a number between 29 and 30
+29?
+l
+Your number is 30.
+It took me 6 guesses.
+I averaged 5.47 guesses per game for 30 games.
+Test Number: 31
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+l
+ok - i will guess a number between 26 and 49
+37?
+h
+ok - i will guess a number between 26 and 36
+31?
+c
+Your number is 31.
+It took me 4 guesses.
+I averaged 5.42 guesses per game for 31 games.
+Test Number: 32
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+l
+ok - i will guess a number between 26 and 49
+37?
+h
+ok - i will guess a number between 26 and 36
+31?
+l
+ok - i will guess a number between 32 and 36
+34?
+h
+ok - i will guess a number between 32 and 33
+32?
+c
+Your number is 32.
+It took me 6 guesses.
+I averaged 5.44 guesses per game for 32 games.
+Test Number: 33
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+l
+ok - i will guess a number between 26 and 49
+37?
+h
+ok - i will guess a number between 26 and 36
+31?
+l
+ok - i will guess a number between 32 and 36
+34?
+h
+ok - i will guess a number between 32 and 33
+32?
+l
+Your number is 33.
+It took me 6 guesses.
+I averaged 5.45 guesses per game for 33 games.
+Test Number: 34
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+l
+ok - i will guess a number between 26 and 49
+37?
+h
+ok - i will guess a number between 26 and 36
+31?
+l
+ok - i will guess a number between 32 and 36
+34?
+c
+Your number is 34.
+It took me 5 guesses.
+I averaged 5.44 guesses per game for 34 games.
+Test Number: 35
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+l
+ok - i will guess a number between 26 and 49
+37?
+h
+ok - i will guess a number between 26 and 36
+31?
+l
+ok - i will guess a number between 32 and 36
+34?
+l
+ok - i will guess a number between 35 and 36
+35?
+c
+Your number is 35.
+It took me 6 guesses.
+I averaged 5.46 guesses per game for 35 games.
+Test Number: 36
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+l
+ok - i will guess a number between 26 and 49
+37?
+h
+ok - i will guess a number between 26 and 36
+31?
+l
+ok - i will guess a number between 32 and 36
+34?
+l
+ok - i will guess a number between 35 and 36
+35?
+l
+Your number is 36.
+It took me 6 guesses.
+I averaged 5.47 guesses per game for 36 games.
+Test Number: 37
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+l
+ok - i will guess a number between 26 and 49
+37?
+c
+Your number is 37.
+It took me 3 guesses.
+I averaged 5.41 guesses per game for 37 games.
+Test Number: 38
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+l
+ok - i will guess a number between 26 and 49
+37?
+l
+ok - i will guess a number between 38 and 49
+43?
+h
+ok - i will guess a number between 38 and 42
+40?
+h
+ok - i will guess a number between 38 and 39
+38?
+c
+Your number is 38.
+It took me 6 guesses.
+I averaged 5.42 guesses per game for 38 games.
+Test Number: 39
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+l
+ok - i will guess a number between 26 and 49
+37?
+l
+ok - i will guess a number between 38 and 49
+43?
+h
+ok - i will guess a number between 38 and 42
+40?
+h
+ok - i will guess a number between 38 and 39
+38?
+l
+Your number is 39.
+It took me 6 guesses.
+I averaged 5.44 guesses per game for 39 games.
+Test Number: 40
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+l
+ok - i will guess a number between 26 and 49
+37?
+l
+ok - i will guess a number between 38 and 49
+43?
+h
+ok - i will guess a number between 38 and 42
+40?
+c
+Your number is 40.
+It took me 5 guesses.
+I averaged 5.42 guesses per game for 40 games.
+Test Number: 41
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+l
+ok - i will guess a number between 26 and 49
+37?
+l
+ok - i will guess a number between 38 and 49
+43?
+h
+ok - i will guess a number between 38 and 42
+40?
+l
+ok - i will guess a number between 41 and 42
+41?
+c
+Your number is 41.
+It took me 6 guesses.
+I averaged 5.44 guesses per game for 41 games.
+Test Number: 42
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+l
+ok - i will guess a number between 26 and 49
+37?
+l
+ok - i will guess a number between 38 and 49
+43?
+h
+ok - i will guess a number between 38 and 42
+40?
+l
+ok - i will guess a number between 41 and 42
+41?
+l
+Your number is 42.
+It took me 6 guesses.
+I averaged 5.45 guesses per game for 42 games.
+Test Number: 43
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+l
+ok - i will guess a number between 26 and 49
+37?
+l
+ok - i will guess a number between 38 and 49
+43?
+c
+Your number is 43.
+It took me 4 guesses.
+I averaged 5.42 guesses per game for 43 games.
+Test Number: 44
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+l
+ok - i will guess a number between 26 and 49
+37?
+l
+ok - i will guess a number between 38 and 49
+43?
+l
+ok - i will guess a number between 44 and 49
+46?
+h
+ok - i will guess a number between 44 and 45
+44?
+c
+Your number is 44.
+It took me 6 guesses.
+I averaged 5.43 guesses per game for 44 games.
+Test Number: 45
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+l
+ok - i will guess a number between 26 and 49
+37?
+l
+ok - i will guess a number between 38 and 49
+43?
+l
+ok - i will guess a number between 44 and 49
+46?
+h
+ok - i will guess a number between 44 and 45
+44?
+l
+Your number is 45.
+It took me 6 guesses.
+I averaged 5.44 guesses per game for 45 games.
+Test Number: 46
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+l
+ok - i will guess a number between 26 and 49
+37?
+l
+ok - i will guess a number between 38 and 49
+43?
+l
+ok - i will guess a number between 44 and 49
+46?
+c
+Your number is 46.
+It took me 5 guesses.
+I averaged 5.43 guesses per game for 46 games.
+Test Number: 47
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+l
+ok - i will guess a number between 26 and 49
+37?
+l
+ok - i will guess a number between 38 and 49
+43?
+l
+ok - i will guess a number between 44 and 49
+46?
+l
+ok - i will guess a number between 47 and 49
+48?
+h
+Your number is 47.
+It took me 6 guesses.
+I averaged 5.45 guesses per game for 47 games.
+Test Number: 48
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+l
+ok - i will guess a number between 26 and 49
+37?
+l
+ok - i will guess a number between 38 and 49
+43?
+l
+ok - i will guess a number between 44 and 49
+46?
+l
+ok - i will guess a number between 47 and 49
+48?
+c
+Your number is 48.
+It took me 6 guesses.
+I averaged 5.46 guesses per game for 48 games.
+Test Number: 49
+ok - i will guess a number between 1 and 100
+50?
+h
+ok - i will guess a number between 1 and 49
+25?
+l
+ok - i will guess a number between 26 and 49
+37?
+l
+ok - i will guess a number between 38 and 49
+43?
+l
+ok - i will guess a number between 44 and 49
+46?
+l
+ok - i will guess a number between 47 and 49
+48?
+l
+Your number is 49.
+It took me 6 guesses.
+I averaged 5.47 guesses per game for 49 games.
+Test Number: 50
+ok - i will guess a number between 1 and 100
+50?
+c
+Your number is 50.
+It took me 1 guess.
+I averaged 5.38 guesses per game for 50 games.
+Test Number: 51
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+h
+ok - i will guess a number between 51 and 74
+62?
+h
+ok - i will guess a number between 51 and 61
+56?
+h
+ok - i will guess a number between 51 and 55
+53?
+h
+ok - i will guess a number between 51 and 52
+51?
+c
+Your number is 51.
+It took me 6 guesses.
+I averaged 5.39 guesses per game for 51 games.
+Test Number: 52
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+h
+ok - i will guess a number between 51 and 74
+62?
+h
+ok - i will guess a number between 51 and 61
+56?
+h
+ok - i will guess a number between 51 and 55
+53?
+h
+ok - i will guess a number between 51 and 52
+51?
+l
+Your number is 52.
+It took me 6 guesses.
+I averaged 5.4 guesses per game for 52 games.
+Test Number: 53
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+h
+ok - i will guess a number between 51 and 74
+62?
+h
+ok - i will guess a number between 51 and 61
+56?
+h
+ok - i will guess a number between 51 and 55
+53?
+c
+Your number is 53.
+It took me 5 guesses.
+I averaged 5.4 guesses per game for 53 games.
+Test Number: 54
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+h
+ok - i will guess a number between 51 and 74
+62?
+h
+ok - i will guess a number between 51 and 61
+56?
+h
+ok - i will guess a number between 51 and 55
+53?
+l
+ok - i will guess a number between 54 and 55
+54?
+c
+Your number is 54.
+It took me 6 guesses.
+I averaged 5.41 guesses per game for 54 games.
+Test Number: 55
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+h
+ok - i will guess a number between 51 and 74
+62?
+h
+ok - i will guess a number between 51 and 61
+56?
+h
+ok - i will guess a number between 51 and 55
+53?
+l
+ok - i will guess a number between 54 and 55
+54?
+l
+Your number is 55.
+It took me 6 guesses.
+I averaged 5.42 guesses per game for 55 games.
+Test Number: 56
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+h
+ok - i will guess a number between 51 and 74
+62?
+h
+ok - i will guess a number between 51 and 61
+56?
+c
+Your number is 56.
+It took me 4 guesses.
+I averaged 5.39 guesses per game for 56 games.
+Test Number: 57
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+h
+ok - i will guess a number between 51 and 74
+62?
+h
+ok - i will guess a number between 51 and 61
+56?
+l
+ok - i will guess a number between 57 and 61
+59?
+h
+ok - i will guess a number between 57 and 58
+57?
+c
+Your number is 57.
+It took me 6 guesses.
+I averaged 5.4 guesses per game for 57 games.
+Test Number: 58
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+h
+ok - i will guess a number between 51 and 74
+62?
+h
+ok - i will guess a number between 51 and 61
+56?
+l
+ok - i will guess a number between 57 and 61
+59?
+h
+ok - i will guess a number between 57 and 58
+57?
+l
+Your number is 58.
+It took me 6 guesses.
+I averaged 5.41 guesses per game for 58 games.
+Test Number: 59
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+h
+ok - i will guess a number between 51 and 74
+62?
+h
+ok - i will guess a number between 51 and 61
+56?
+l
+ok - i will guess a number between 57 and 61
+59?
+c
+Your number is 59.
+It took me 5 guesses.
+I averaged 5.41 guesses per game for 59 games.
+Test Number: 60
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+h
+ok - i will guess a number between 51 and 74
+62?
+h
+ok - i will guess a number between 51 and 61
+56?
+l
+ok - i will guess a number between 57 and 61
+59?
+l
+ok - i will guess a number between 60 and 61
+60?
+c
+Your number is 60.
+It took me 6 guesses.
+I averaged 5.42 guesses per game for 60 games.
+Test Number: 61
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+h
+ok - i will guess a number between 51 and 74
+62?
+h
+ok - i will guess a number between 51 and 61
+56?
+l
+ok - i will guess a number between 57 and 61
+59?
+l
+ok - i will guess a number between 60 and 61
+60?
+l
+Your number is 61.
+It took me 6 guesses.
+I averaged 5.43 guesses per game for 61 games.
+Test Number: 62
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+h
+ok - i will guess a number between 51 and 74
+62?
+c
+Your number is 62.
+It took me 3 guesses.
+I averaged 5.39 guesses per game for 62 games.
+Test Number: 63
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+h
+ok - i will guess a number between 51 and 74
+62?
+l
+ok - i will guess a number between 63 and 74
+68?
+h
+ok - i will guess a number between 63 and 67
+65?
+h
+ok - i will guess a number between 63 and 64
+63?
+c
+Your number is 63.
+It took me 6 guesses.
+I averaged 5.4 guesses per game for 63 games.
+Test Number: 64
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+h
+ok - i will guess a number between 51 and 74
+62?
+l
+ok - i will guess a number between 63 and 74
+68?
+h
+ok - i will guess a number between 63 and 67
+65?
+h
+ok - i will guess a number between 63 and 64
+63?
+l
+Your number is 64.
+It took me 6 guesses.
+I averaged 5.41 guesses per game for 64 games.
+Test Number: 65
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+h
+ok - i will guess a number between 51 and 74
+62?
+l
+ok - i will guess a number between 63 and 74
+68?
+h
+ok - i will guess a number between 63 and 67
+65?
+c
+Your number is 65.
+It took me 5 guesses.
+I averaged 5.4 guesses per game for 65 games.
+Test Number: 66
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+h
+ok - i will guess a number between 51 and 74
+62?
+l
+ok - i will guess a number between 63 and 74
+68?
+h
+ok - i will guess a number between 63 and 67
+65?
+l
+ok - i will guess a number between 66 and 67
+66?
+c
+Your number is 66.
+It took me 6 guesses.
+I averaged 5.41 guesses per game for 66 games.
+Test Number: 67
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+h
+ok - i will guess a number between 51 and 74
+62?
+l
+ok - i will guess a number between 63 and 74
+68?
+h
+ok - i will guess a number between 63 and 67
+65?
+l
+ok - i will guess a number between 66 and 67
+66?
+l
+Your number is 67.
+It took me 6 guesses.
+I averaged 5.42 guesses per game for 67 games.
+Test Number: 68
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+h
+ok - i will guess a number between 51 and 74
+62?
+l
+ok - i will guess a number between 63 and 74
+68?
+c
+Your number is 68.
+It took me 4 guesses.
+I averaged 5.4 guesses per game for 68 games.
+Test Number: 69
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+h
+ok - i will guess a number between 51 and 74
+62?
+l
+ok - i will guess a number between 63 and 74
+68?
+l
+ok - i will guess a number between 69 and 74
+71?
+h
+ok - i will guess a number between 69 and 70
+69?
+c
+Your number is 69.
+It took me 6 guesses.
+I averaged 5.41 guesses per game for 69 games.
+Test Number: 70
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+h
+ok - i will guess a number between 51 and 74
+62?
+l
+ok - i will guess a number between 63 and 74
+68?
+l
+ok - i will guess a number between 69 and 74
+71?
+h
+ok - i will guess a number between 69 and 70
+69?
+l
+Your number is 70.
+It took me 6 guesses.
+I averaged 5.41 guesses per game for 70 games.
+Test Number: 71
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+h
+ok - i will guess a number between 51 and 74
+62?
+l
+ok - i will guess a number between 63 and 74
+68?
+l
+ok - i will guess a number between 69 and 74
+71?
+c
+Your number is 71.
+It took me 5 guesses.
+I averaged 5.41 guesses per game for 71 games.
+Test Number: 72
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+h
+ok - i will guess a number between 51 and 74
+62?
+l
+ok - i will guess a number between 63 and 74
+68?
+l
+ok - i will guess a number between 69 and 74
+71?
+l
+ok - i will guess a number between 72 and 74
+73?
+h
+Your number is 72.
+It took me 6 guesses.
+I averaged 5.42 guesses per game for 72 games.
+Test Number: 73
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+h
+ok - i will guess a number between 51 and 74
+62?
+l
+ok - i will guess a number between 63 and 74
+68?
+l
+ok - i will guess a number between 69 and 74
+71?
+l
+ok - i will guess a number between 72 and 74
+73?
+c
+Your number is 73.
+It took me 6 guesses.
+I averaged 5.42 guesses per game for 73 games.
+Test Number: 74
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+h
+ok - i will guess a number between 51 and 74
+62?
+l
+ok - i will guess a number between 63 and 74
+68?
+l
+ok - i will guess a number between 69 and 74
+71?
+l
+ok - i will guess a number between 72 and 74
+73?
+l
+Your number is 74.
+It took me 6 guesses.
+I averaged 5.43 guesses per game for 74 games.
+Test Number: 75
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+c
+Your number is 75.
+It took me 2 guesses.
+I averaged 5.39 guesses per game for 75 games.
+Test Number: 76
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+l
+ok - i will guess a number between 76 and 100
+88?
+h
+ok - i will guess a number between 76 and 87
+81?
+h
+ok - i will guess a number between 76 and 80
+78?
+h
+ok - i will guess a number between 76 and 77
+76?
+c
+Your number is 76.
+It took me 6 guesses.
+I averaged 5.39 guesses per game for 76 games.
+Test Number: 77
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+l
+ok - i will guess a number between 76 and 100
+88?
+h
+ok - i will guess a number between 76 and 87
+81?
+h
+ok - i will guess a number between 76 and 80
+78?
+h
+ok - i will guess a number between 76 and 77
+76?
+l
+Your number is 77.
+It took me 6 guesses.
+I averaged 5.4 guesses per game for 77 games.
+Test Number: 78
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+l
+ok - i will guess a number between 76 and 100
+88?
+h
+ok - i will guess a number between 76 and 87
+81?
+h
+ok - i will guess a number between 76 and 80
+78?
+c
+Your number is 78.
+It took me 5 guesses.
+I averaged 5.4 guesses per game for 78 games.
+Test Number: 79
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+l
+ok - i will guess a number between 76 and 100
+88?
+h
+ok - i will guess a number between 76 and 87
+81?
+h
+ok - i will guess a number between 76 and 80
+78?
+l
+ok - i will guess a number between 79 and 80
+79?
+c
+Your number is 79.
+It took me 6 guesses.
+I averaged 5.41 guesses per game for 79 games.
+Test Number: 80
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+l
+ok - i will guess a number between 76 and 100
+88?
+h
+ok - i will guess a number between 76 and 87
+81?
+h
+ok - i will guess a number between 76 and 80
+78?
+l
+ok - i will guess a number between 79 and 80
+79?
+l
+Your number is 80.
+It took me 6 guesses.
+I averaged 5.41 guesses per game for 80 games.
+Test Number: 81
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+l
+ok - i will guess a number between 76 and 100
+88?
+h
+ok - i will guess a number between 76 and 87
+81?
+c
+Your number is 81.
+It took me 4 guesses.
+I averaged 5.4 guesses per game for 81 games.
+Test Number: 82
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+l
+ok - i will guess a number between 76 and 100
+88?
+h
+ok - i will guess a number between 76 and 87
+81?
+l
+ok - i will guess a number between 82 and 87
+84?
+h
+ok - i will guess a number between 82 and 83
+82?
+c
+Your number is 82.
+It took me 6 guesses.
+I averaged 5.4 guesses per game for 82 games.
+Test Number: 83
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+l
+ok - i will guess a number between 76 and 100
+88?
+h
+ok - i will guess a number between 76 and 87
+81?
+l
+ok - i will guess a number between 82 and 87
+84?
+h
+ok - i will guess a number between 82 and 83
+82?
+l
+Your number is 83.
+It took me 6 guesses.
+I averaged 5.41 guesses per game for 83 games.
+Test Number: 84
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+l
+ok - i will guess a number between 76 and 100
+88?
+h
+ok - i will guess a number between 76 and 87
+81?
+l
+ok - i will guess a number between 82 and 87
+84?
+c
+Your number is 84.
+It took me 5 guesses.
+I averaged 5.4 guesses per game for 84 games.
+Test Number: 85
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+l
+ok - i will guess a number between 76 and 100
+88?
+h
+ok - i will guess a number between 76 and 87
+81?
+l
+ok - i will guess a number between 82 and 87
+84?
+l
+ok - i will guess a number between 85 and 87
+86?
+h
+Your number is 85.
+It took me 6 guesses.
+I averaged 5.41 guesses per game for 85 games.
+Test Number: 86
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+l
+ok - i will guess a number between 76 and 100
+88?
+h
+ok - i will guess a number between 76 and 87
+81?
+l
+ok - i will guess a number between 82 and 87
+84?
+l
+ok - i will guess a number between 85 and 87
+86?
+c
+Your number is 86.
+It took me 6 guesses.
+I averaged 5.42 guesses per game for 86 games.
+Test Number: 87
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+l
+ok - i will guess a number between 76 and 100
+88?
+h
+ok - i will guess a number between 76 and 87
+81?
+l
+ok - i will guess a number between 82 and 87
+84?
+l
+ok - i will guess a number between 85 and 87
+86?
+l
+Your number is 87.
+It took me 6 guesses.
+I averaged 5.43 guesses per game for 87 games.
+Test Number: 88
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+l
+ok - i will guess a number between 76 and 100
+88?
+c
+Your number is 88.
+It took me 3 guesses.
+I averaged 5.4 guesses per game for 88 games.
+Test Number: 89
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+l
+ok - i will guess a number between 76 and 100
+88?
+l
+ok - i will guess a number between 89 and 100
+94?
+h
+ok - i will guess a number between 89 and 93
+91?
+h
+ok - i will guess a number between 89 and 90
+89?
+c
+Your number is 89.
+It took me 6 guesses.
+I averaged 5.4 guesses per game for 89 games.
+Test Number: 90
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+l
+ok - i will guess a number between 76 and 100
+88?
+l
+ok - i will guess a number between 89 and 100
+94?
+h
+ok - i will guess a number between 89 and 93
+91?
+h
+ok - i will guess a number between 89 and 90
+89?
+l
+Your number is 90.
+It took me 6 guesses.
+I averaged 5.41 guesses per game for 90 games.
+Test Number: 91
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+l
+ok - i will guess a number between 76 and 100
+88?
+l
+ok - i will guess a number between 89 and 100
+94?
+h
+ok - i will guess a number between 89 and 93
+91?
+c
+Your number is 91.
+It took me 5 guesses.
+I averaged 5.41 guesses per game for 91 games.
+Test Number: 92
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+l
+ok - i will guess a number between 76 and 100
+88?
+l
+ok - i will guess a number between 89 and 100
+94?
+h
+ok - i will guess a number between 89 and 93
+91?
+l
+ok - i will guess a number between 92 and 93
+92?
+c
+Your number is 92.
+It took me 6 guesses.
+I averaged 5.41 guesses per game for 92 games.
+Test Number: 93
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+l
+ok - i will guess a number between 76 and 100
+88?
+l
+ok - i will guess a number between 89 and 100
+94?
+h
+ok - i will guess a number between 89 and 93
+91?
+l
+ok - i will guess a number between 92 and 93
+92?
+l
+Your number is 93.
+It took me 6 guesses.
+I averaged 5.42 guesses per game for 93 games.
+Test Number: 94
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+l
+ok - i will guess a number between 76 and 100
+88?
+l
+ok - i will guess a number between 89 and 100
+94?
+c
+Your number is 94.
+It took me 4 guesses.
+I averaged 5.4 guesses per game for 94 games.
+Test Number: 95
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+l
+ok - i will guess a number between 76 and 100
+88?
+l
+ok - i will guess a number between 89 and 100
+94?
+l
+ok - i will guess a number between 95 and 100
+97?
+h
+ok - i will guess a number between 95 and 96
+95?
+c
+Your number is 95.
+It took me 6 guesses.
+I averaged 5.41 guesses per game for 95 games.
+Test Number: 96
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+l
+ok - i will guess a number between 76 and 100
+88?
+l
+ok - i will guess a number between 89 and 100
+94?
+l
+ok - i will guess a number between 95 and 100
+97?
+h
+ok - i will guess a number between 95 and 96
+95?
+l
+Your number is 96.
+It took me 6 guesses.
+I averaged 5.42 guesses per game for 96 games.
+Test Number: 97
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+l
+ok - i will guess a number between 76 and 100
+88?
+l
+ok - i will guess a number between 89 and 100
+94?
+l
+ok - i will guess a number between 95 and 100
+97?
+c
+Your number is 97.
+It took me 5 guesses.
+I averaged 5.41 guesses per game for 97 games.
+Test Number: 98
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+l
+ok - i will guess a number between 76 and 100
+88?
+l
+ok - i will guess a number between 89 and 100
+94?
+l
+ok - i will guess a number between 95 and 100
+97?
+l
+ok - i will guess a number between 98 and 100
+99?
+h
+Your number is 98.
+It took me 6 guesses.
+I averaged 5.42 guesses per game for 98 games.
+Test Number: 99
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+l
+ok - i will guess a number between 76 and 100
+88?
+l
+ok - i will guess a number between 89 and 100
+94?
+l
+ok - i will guess a number between 95 and 100
+97?
+l
+ok - i will guess a number between 98 and 100
+99?
+c
+Your number is 99.
+It took me 6 guesses.
+I averaged 5.42 guesses per game for 99 games.
+Test Number: 100
+ok - i will guess a number between 1 and 100
+50?
+l
+ok - i will guess a number between 51 and 100
+75?
+l
+ok - i will guess a number between 76 and 100
+88?
+l
+ok - i will guess a number between 89 and 100
+94?
+l
+ok - i will guess a number between 95 and 100
+97?
+l
+ok - i will guess a number between 98 and 100
+99?
+l
+Your number is 100.
+It took me 6 guesses.
+I averaged 5.43 guesses per game for 100 games.
+Thanks for playing!

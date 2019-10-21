@@ -1,0 +1,768 @@
+Now testing piece: pawn at position: A1
+A pawn cannot be in row: 1
+Now testing piece: pawn at position: A2
+['A3', 'A4']
+Now testing piece: pawn at position: A3
+['A4']
+Now testing piece: pawn at position: A4
+['A5']
+Now testing piece: pawn at position: A5
+['A6']
+Now testing piece: pawn at position: A6
+['A7']
+Now testing piece: pawn at position: A7
+['A8']
+Now testing piece: pawn at position: A8
+A pawn cannot be in row: 8
+Now testing piece: pawn at position: B1
+A pawn cannot be in row: 1
+Now testing piece: pawn at position: B2
+['B3', 'B4']
+Now testing piece: pawn at position: B3
+['B4']
+Now testing piece: pawn at position: B4
+['B5']
+Now testing piece: pawn at position: B5
+['B6']
+Now testing piece: pawn at position: B6
+['B7']
+Now testing piece: pawn at position: B7
+['B8']
+Now testing piece: pawn at position: B8
+A pawn cannot be in row: 8
+Now testing piece: pawn at position: C1
+A pawn cannot be in row: 1
+Now testing piece: pawn at position: C2
+['C3', 'C4']
+Now testing piece: pawn at position: C3
+['C4']
+Now testing piece: pawn at position: C4
+['C5']
+Now testing piece: pawn at position: C5
+['C6']
+Now testing piece: pawn at position: C6
+['C7']
+Now testing piece: pawn at position: C7
+['C8']
+Now testing piece: pawn at position: C8
+A pawn cannot be in row: 8
+Now testing piece: pawn at position: D1
+A pawn cannot be in row: 1
+Now testing piece: pawn at position: D2
+['D3', 'D4']
+Now testing piece: pawn at position: D3
+['D4']
+Now testing piece: pawn at position: D4
+['D5']
+Now testing piece: pawn at position: D5
+['D6']
+Now testing piece: pawn at position: D6
+['D7']
+Now testing piece: pawn at position: D7
+['D8']
+Now testing piece: pawn at position: D8
+A pawn cannot be in row: 8
+Now testing piece: pawn at position: E1
+A pawn cannot be in row: 1
+Now testing piece: pawn at position: E2
+['E3', 'E4']
+Now testing piece: pawn at position: E3
+['E4']
+Now testing piece: pawn at position: E4
+['E5']
+Now testing piece: pawn at position: E5
+['E6']
+Now testing piece: pawn at position: E6
+['E7']
+Now testing piece: pawn at position: E7
+['E8']
+Now testing piece: pawn at position: E8
+A pawn cannot be in row: 8
+Now testing piece: pawn at position: F1
+A pawn cannot be in row: 1
+Now testing piece: pawn at position: F2
+['F3', 'F4']
+Now testing piece: pawn at position: F3
+['F4']
+Now testing piece: pawn at position: F4
+['F5']
+Now testing piece: pawn at position: F5
+['F6']
+Now testing piece: pawn at position: F6
+['F7']
+Now testing piece: pawn at position: F7
+['F8']
+Now testing piece: pawn at position: F8
+A pawn cannot be in row: 8
+Now testing piece: pawn at position: G1
+A pawn cannot be in row: 1
+Now testing piece: pawn at position: G2
+['G3', 'G4']
+Now testing piece: pawn at position: G3
+['G4']
+Now testing piece: pawn at position: G4
+['G5']
+Now testing piece: pawn at position: G5
+['G6']
+Now testing piece: pawn at position: G6
+['G7']
+Now testing piece: pawn at position: G7
+['G8']
+Now testing piece: pawn at position: G8
+A pawn cannot be in row: 8
+Now testing piece: pawn at position: H1
+A pawn cannot be in row: 1
+Now testing piece: pawn at position: H2
+['H3', 'H4']
+Now testing piece: pawn at position: H3
+['H4']
+Now testing piece: pawn at position: H4
+['H5']
+Now testing piece: pawn at position: H5
+['H6']
+Now testing piece: pawn at position: H6
+['H7']
+Now testing piece: pawn at position: H7
+['H8']
+Now testing piece: pawn at position: H8
+A pawn cannot be in row: 8
+Now testing piece: rook at position: A1
+['A2', 'A3', 'A4', 'A5', 'A6', 'A7', 'A8', 'B1', 'C1', 'D1', 'E1', 'F1', 'G1', 'H1']
+Now testing piece: rook at position: A2
+['A3', 'A4', 'A5', 'A6', 'A7', 'A8', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'A1']
+Now testing piece: rook at position: A3
+['A4', 'A5', 'A6', 'A7', 'A8', 'B3', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'A2', 'A1']
+Now testing piece: rook at position: A4
+['A5', 'A6', 'A7', 'A8', 'B4', 'C4', 'D4', 'E4', 'F4', 'G4', 'H4', 'A3', 'A2', 'A1']
+Now testing piece: rook at position: A5
+['A6', 'A7', 'A8', 'B5', 'C5', 'D5', 'E5', 'F5', 'G5', 'H5', 'A4', 'A3', 'A2', 'A1']
+Now testing piece: rook at position: A6
+['A7', 'A8', 'B6', 'C6', 'D6', 'E6', 'F6', 'G6', 'H6', 'A5', 'A4', 'A3', 'A2', 'A1']
+Now testing piece: rook at position: A7
+['A8', 'B7', 'C7', 'D7', 'E7', 'F7', 'G7', 'H7', 'A6', 'A5', 'A4', 'A3', 'A2', 'A1']
+Now testing piece: rook at position: A8
+['B8', 'C8', 'D8', 'E8', 'F8', 'G8', 'H8', 'A7', 'A6', 'A5', 'A4', 'A3', 'A2', 'A1']
+Now testing piece: rook at position: B1
+['B2', 'B3', 'B4', 'B5', 'B6', 'B7', 'B8', 'C1', 'D1', 'E1', 'F1', 'G1', 'H1', 'A1']
+Now testing piece: rook at position: B2
+['B3', 'B4', 'B5', 'B6', 'B7', 'B8', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'B1', 'A2']
+Now testing piece: rook at position: B3
+['B4', 'B5', 'B6', 'B7', 'B8', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'B2', 'B1', 'A3']
+Now testing piece: rook at position: B4
+['B5', 'B6', 'B7', 'B8', 'C4', 'D4', 'E4', 'F4', 'G4', 'H4', 'B3', 'B2', 'B1', 'A4']
+Now testing piece: rook at position: B5
+['B6', 'B7', 'B8', 'C5', 'D5', 'E5', 'F5', 'G5', 'H5', 'B4', 'B3', 'B2', 'B1', 'A5']
+Now testing piece: rook at position: B6
+['B7', 'B8', 'C6', 'D6', 'E6', 'F6', 'G6', 'H6', 'B5', 'B4', 'B3', 'B2', 'B1', 'A6']
+Now testing piece: rook at position: B7
+['B8', 'C7', 'D7', 'E7', 'F7', 'G7', 'H7', 'B6', 'B5', 'B4', 'B3', 'B2', 'B1', 'A7']
+Now testing piece: rook at position: B8
+['C8', 'D8', 'E8', 'F8', 'G8', 'H8', 'B7', 'B6', 'B5', 'B4', 'B3', 'B2', 'B1', 'A8']
+Now testing piece: rook at position: C1
+['C2', 'C3', 'C4', 'C5', 'C6', 'C7', 'C8', 'D1', 'E1', 'F1', 'G1', 'H1', 'B1', 'A1']
+Now testing piece: rook at position: C2
+['C3', 'C4', 'C5', 'C6', 'C7', 'C8', 'D2', 'E2', 'F2', 'G2', 'H2', 'C1', 'B2', 'A2']
+Now testing piece: rook at position: C3
+['C4', 'C5', 'C6', 'C7', 'C8', 'D3', 'E3', 'F3', 'G3', 'H3', 'C2', 'C1', 'B3', 'A3']
+Now testing piece: rook at position: C4
+['C5', 'C6', 'C7', 'C8', 'D4', 'E4', 'F4', 'G4', 'H4', 'C3', 'C2', 'C1', 'B4', 'A4']
+Now testing piece: rook at position: C5
+['C6', 'C7', 'C8', 'D5', 'E5', 'F5', 'G5', 'H5', 'C4', 'C3', 'C2', 'C1', 'B5', 'A5']
+Now testing piece: rook at position: C6
+['C7', 'C8', 'D6', 'E6', 'F6', 'G6', 'H6', 'C5', 'C4', 'C3', 'C2', 'C1', 'B6', 'A6']
+Now testing piece: rook at position: C7
+['C8', 'D7', 'E7', 'F7', 'G7', 'H7', 'C6', 'C5', 'C4', 'C3', 'C2', 'C1', 'B7', 'A7']
+Now testing piece: rook at position: C8
+['D8', 'E8', 'F8', 'G8', 'H8', 'C7', 'C6', 'C5', 'C4', 'C3', 'C2', 'C1', 'B8', 'A8']
+Now testing piece: rook at position: D1
+['D2', 'D3', 'D4', 'D5', 'D6', 'D7', 'D8', 'E1', 'F1', 'G1', 'H1', 'C1', 'B1', 'A1']
+Now testing piece: rook at position: D2
+['D3', 'D4', 'D5', 'D6', 'D7', 'D8', 'E2', 'F2', 'G2', 'H2', 'D1', 'C2', 'B2', 'A2']
+Now testing piece: rook at position: D3
+['D4', 'D5', 'D6', 'D7', 'D8', 'E3', 'F3', 'G3', 'H3', 'D2', 'D1', 'C3', 'B3', 'A3']
+Now testing piece: rook at position: D4
+['D5', 'D6', 'D7', 'D8', 'E4', 'F4', 'G4', 'H4', 'D3', 'D2', 'D1', 'C4', 'B4', 'A4']
+Now testing piece: rook at position: D5
+['D6', 'D7', 'D8', 'E5', 'F5', 'G5', 'H5', 'D4', 'D3', 'D2', 'D1', 'C5', 'B5', 'A5']
+Now testing piece: rook at position: D6
+['D7', 'D8', 'E6', 'F6', 'G6', 'H6', 'D5', 'D4', 'D3', 'D2', 'D1', 'C6', 'B6', 'A6']
+Now testing piece: rook at position: D7
+['D8', 'E7', 'F7', 'G7', 'H7', 'D6', 'D5', 'D4', 'D3', 'D2', 'D1', 'C7', 'B7', 'A7']
+Now testing piece: rook at position: D8
+['E8', 'F8', 'G8', 'H8', 'D7', 'D6', 'D5', 'D4', 'D3', 'D2', 'D1', 'C8', 'B8', 'A8']
+Now testing piece: rook at position: E1
+['E2', 'E3', 'E4', 'E5', 'E6', 'E7', 'E8', 'F1', 'G1', 'H1', 'D1', 'C1', 'B1', 'A1']
+Now testing piece: rook at position: E2
+['E3', 'E4', 'E5', 'E6', 'E7', 'E8', 'F2', 'G2', 'H2', 'E1', 'D2', 'C2', 'B2', 'A2']
+Now testing piece: rook at position: E3
+['E4', 'E5', 'E6', 'E7', 'E8', 'F3', 'G3', 'H3', 'E2', 'E1', 'D3', 'C3', 'B3', 'A3']
+Now testing piece: rook at position: E4
+['E5', 'E6', 'E7', 'E8', 'F4', 'G4', 'H4', 'E3', 'E2', 'E1', 'D4', 'C4', 'B4', 'A4']
+Now testing piece: rook at position: E5
+['E6', 'E7', 'E8', 'F5', 'G5', 'H5', 'E4', 'E3', 'E2', 'E1', 'D5', 'C5', 'B5', 'A5']
+Now testing piece: rook at position: E6
+['E7', 'E8', 'F6', 'G6', 'H6', 'E5', 'E4', 'E3', 'E2', 'E1', 'D6', 'C6', 'B6', 'A6']
+Now testing piece: rook at position: E7
+['E8', 'F7', 'G7', 'H7', 'E6', 'E5', 'E4', 'E3', 'E2', 'E1', 'D7', 'C7', 'B7', 'A7']
+Now testing piece: rook at position: E8
+['F8', 'G8', 'H8', 'E7', 'E6', 'E5', 'E4', 'E3', 'E2', 'E1', 'D8', 'C8', 'B8', 'A8']
+Now testing piece: rook at position: F1
+['F2', 'F3', 'F4', 'F5', 'F6', 'F7', 'F8', 'G1', 'H1', 'E1', 'D1', 'C1', 'B1', 'A1']
+Now testing piece: rook at position: F2
+['F3', 'F4', 'F5', 'F6', 'F7', 'F8', 'G2', 'H2', 'F1', 'E2', 'D2', 'C2', 'B2', 'A2']
+Now testing piece: rook at position: F3
+['F4', 'F5', 'F6', 'F7', 'F8', 'G3', 'H3', 'F2', 'F1', 'E3', 'D3', 'C3', 'B3', 'A3']
+Now testing piece: rook at position: F4
+['F5', 'F6', 'F7', 'F8', 'G4', 'H4', 'F3', 'F2', 'F1', 'E4', 'D4', 'C4', 'B4', 'A4']
+Now testing piece: rook at position: F5
+['F6', 'F7', 'F8', 'G5', 'H5', 'F4', 'F3', 'F2', 'F1', 'E5', 'D5', 'C5', 'B5', 'A5']
+Now testing piece: rook at position: F6
+['F7', 'F8', 'G6', 'H6', 'F5', 'F4', 'F3', 'F2', 'F1', 'E6', 'D6', 'C6', 'B6', 'A6']
+Now testing piece: rook at position: F7
+['F8', 'G7', 'H7', 'F6', 'F5', 'F4', 'F3', 'F2', 'F1', 'E7', 'D7', 'C7', 'B7', 'A7']
+Now testing piece: rook at position: F8
+['G8', 'H8', 'F7', 'F6', 'F5', 'F4', 'F3', 'F2', 'F1', 'E8', 'D8', 'C8', 'B8', 'A8']
+Now testing piece: rook at position: G1
+['G2', 'G3', 'G4', 'G5', 'G6', 'G7', 'G8', 'H1', 'F1', 'E1', 'D1', 'C1', 'B1', 'A1']
+Now testing piece: rook at position: G2
+['G3', 'G4', 'G5', 'G6', 'G7', 'G8', 'H2', 'G1', 'F2', 'E2', 'D2', 'C2', 'B2', 'A2']
+Now testing piece: rook at position: G3
+['G4', 'G5', 'G6', 'G7', 'G8', 'H3', 'G2', 'G1', 'F3', 'E3', 'D3', 'C3', 'B3', 'A3']
+Now testing piece: rook at position: G4
+['G5', 'G6', 'G7', 'G8', 'H4', 'G3', 'G2', 'G1', 'F4', 'E4', 'D4', 'C4', 'B4', 'A4']
+Now testing piece: rook at position: G5
+['G6', 'G7', 'G8', 'H5', 'G4', 'G3', 'G2', 'G1', 'F5', 'E5', 'D5', 'C5', 'B5', 'A5']
+Now testing piece: rook at position: G6
+['G7', 'G8', 'H6', 'G5', 'G4', 'G3', 'G2', 'G1', 'F6', 'E6', 'D6', 'C6', 'B6', 'A6']
+Now testing piece: rook at position: G7
+['G8', 'H7', 'G6', 'G5', 'G4', 'G3', 'G2', 'G1', 'F7', 'E7', 'D7', 'C7', 'B7', 'A7']
+Now testing piece: rook at position: G8
+['H8', 'G7', 'G6', 'G5', 'G4', 'G3', 'G2', 'G1', 'F8', 'E8', 'D8', 'C8', 'B8', 'A8']
+Now testing piece: rook at position: H1
+['H2', 'H3', 'H4', 'H5', 'H6', 'H7', 'H8', 'G1', 'F1', 'E1', 'D1', 'C1', 'B1', 'A1']
+Now testing piece: rook at position: H2
+['H3', 'H4', 'H5', 'H6', 'H7', 'H8', 'H1', 'G2', 'F2', 'E2', 'D2', 'C2', 'B2', 'A2']
+Now testing piece: rook at position: H3
+['H4', 'H5', 'H6', 'H7', 'H8', 'H2', 'H1', 'G3', 'F3', 'E3', 'D3', 'C3', 'B3', 'A3']
+Now testing piece: rook at position: H4
+['H5', 'H6', 'H7', 'H8', 'H3', 'H2', 'H1', 'G4', 'F4', 'E4', 'D4', 'C4', 'B4', 'A4']
+Now testing piece: rook at position: H5
+['H6', 'H7', 'H8', 'H4', 'H3', 'H2', 'H1', 'G5', 'F5', 'E5', 'D5', 'C5', 'B5', 'A5']
+Now testing piece: rook at position: H6
+['H7', 'H8', 'H5', 'H4', 'H3', 'H2', 'H1', 'G6', 'F6', 'E6', 'D6', 'C6', 'B6', 'A6']
+Now testing piece: rook at position: H7
+['H8', 'H6', 'H5', 'H4', 'H3', 'H2', 'H1', 'G7', 'F7', 'E7', 'D7', 'C7', 'B7', 'A7']
+Now testing piece: rook at position: H8
+['H7', 'H6', 'H5', 'H4', 'H3', 'H2', 'H1', 'G8', 'F8', 'E8', 'D8', 'C8', 'B8', 'A8']
+Now testing piece: knight at position: A1
+['B3', 'C2']
+Now testing piece: knight at position: A2
+['B4', 'C3', 'C1']
+Now testing piece: knight at position: A3
+['B5', 'C4', 'C2', 'B1']
+Now testing piece: knight at position: A4
+['B6', 'C5', 'C3', 'B2']
+Now testing piece: knight at position: A5
+['B7', 'C6', 'C4', 'B3']
+Now testing piece: knight at position: A6
+['B8', 'C7', 'C5', 'B4']
+Now testing piece: knight at position: A7
+['C8', 'C6', 'B5']
+Now testing piece: knight at position: A8
+['C7', 'B6']
+Now testing piece: knight at position: B1
+['A3', 'C3', 'D2']
+Now testing piece: knight at position: B2
+['A4', 'C4', 'D3', 'D1']
+Now testing piece: knight at position: B3
+['A5', 'C5', 'D4', 'D2', 'C1', 'A1']
+Now testing piece: knight at position: B4
+['A6', 'C6', 'D5', 'D3', 'C2', 'A2']
+Now testing piece: knight at position: B5
+['A7', 'C7', 'D6', 'D4', 'C3', 'A3']
+Now testing piece: knight at position: B6
+['A8', 'C8', 'D7', 'D5', 'C4', 'A4']
+Now testing piece: knight at position: B7
+['D8', 'D6', 'C5', 'A5']
+Now testing piece: knight at position: B8
+['D7', 'C6', 'A6']
+Now testing piece: knight at position: C1
+['B3', 'D3', 'E2', 'A2']
+Now testing piece: knight at position: C2
+['B4', 'D4', 'E3', 'E1', 'A1', 'A3']
+Now testing piece: knight at position: C3
+['B5', 'D5', 'E4', 'E2', 'D1', 'B1', 'A2', 'A4']
+Now testing piece: knight at position: C4
+['B6', 'D6', 'E5', 'E3', 'D2', 'B2', 'A3', 'A5']
+Now testing piece: knight at position: C5
+['B7', 'D7', 'E6', 'E4', 'D3', 'B3', 'A4', 'A6']
+Now testing piece: knight at position: C6
+['B8', 'D8', 'E7', 'E5', 'D4', 'B4', 'A5', 'A7']
+Now testing piece: knight at position: C7
+['E8', 'E6', 'D5', 'B5', 'A6', 'A8']
+Now testing piece: knight at position: C8
+['E7', 'D6', 'B6', 'A7']
+Now testing piece: knight at position: D1
+['C3', 'E3', 'F2', 'B2']
+Now testing piece: knight at position: D2
+['C4', 'E4', 'F3', 'F1', 'B1', 'B3']
+Now testing piece: knight at position: D3
+['C5', 'E5', 'F4', 'F2', 'E1', 'C1', 'B2', 'B4']
+Now testing piece: knight at position: D4
+['C6', 'E6', 'F5', 'F3', 'E2', 'C2', 'B3', 'B5']
+Now testing piece: knight at position: D5
+['C7', 'E7', 'F6', 'F4', 'E3', 'C3', 'B4', 'B6']
+Now testing piece: knight at position: D6
+['C8', 'E8', 'F7', 'F5', 'E4', 'C4', 'B5', 'B7']
+Now testing piece: knight at position: D7
+['F8', 'F6', 'E5', 'C5', 'B6', 'B8']
+Now testing piece: knight at position: D8
+['F7', 'E6', 'C6', 'B7']
+Now testing piece: knight at position: E1
+['D3', 'F3', 'G2', 'C2']
+Now testing piece: knight at position: E2
+['D4', 'F4', 'G3', 'G1', 'C1', 'C3']
+Now testing piece: knight at position: E3
+['D5', 'F5', 'G4', 'G2', 'F1', 'D1', 'C2', 'C4']
+Now testing piece: knight at position: E4
+['D6', 'F6', 'G5', 'G3', 'F2', 'D2', 'C3', 'C5']
+Now testing piece: knight at position: E5
+['D7', 'F7', 'G6', 'G4', 'F3', 'D3', 'C4', 'C6']
+Now testing piece: knight at position: E6
+['D8', 'F8', 'G7', 'G5', 'F4', 'D4', 'C5', 'C7']
+Now testing piece: knight at position: E7
+['G8', 'G6', 'F5', 'D5', 'C6', 'C8']
+Now testing piece: knight at position: E8
+['G7', 'F6', 'D6', 'C7']
+Now testing piece: knight at position: F1
+['E3', 'G3', 'H2', 'D2']
+Now testing piece: knight at position: F2
+['E4', 'G4', 'H3', 'H1', 'D1', 'D3']
+Now testing piece: knight at position: F3
+['E5', 'G5', 'H4', 'H2', 'G1', 'E1', 'D2', 'D4']
+Now testing piece: knight at position: F4
+['E6', 'G6', 'H5', 'H3', 'G2', 'E2', 'D3', 'D5']
+Now testing piece: knight at position: F5
+['E7', 'G7', 'H6', 'H4', 'G3', 'E3', 'D4', 'D6']
+Now testing piece: knight at position: F6
+['E8', 'G8', 'H7', 'H5', 'G4', 'E4', 'D5', 'D7']
+Now testing piece: knight at position: F7
+['H8', 'H6', 'G5', 'E5', 'D6', 'D8']
+Now testing piece: knight at position: F8
+['H7', 'G6', 'E6', 'D7']
+Now testing piece: knight at position: G1
+['F3', 'H3', 'E2']
+Now testing piece: knight at position: G2
+['F4', 'H4', 'E1', 'E3']
+Now testing piece: knight at position: G3
+['F5', 'H5', 'H1', 'F1', 'E2', 'E4']
+Now testing piece: knight at position: G4
+['F6', 'H6', 'H2', 'F2', 'E3', 'E5']
+Now testing piece: knight at position: G5
+['F7', 'H7', 'H3', 'F3', 'E4', 'E6']
+Now testing piece: knight at position: G6
+['F8', 'H8', 'H4', 'F4', 'E5', 'E7']
+Now testing piece: knight at position: G7
+['H5', 'F5', 'E6', 'E8']
+Now testing piece: knight at position: G8
+['H6', 'F6', 'E7']
+Now testing piece: knight at position: H1
+['G3', 'F2']
+Now testing piece: knight at position: H2
+['G4', 'F1', 'F3']
+Now testing piece: knight at position: H3
+['G5', 'G1', 'F2', 'F4']
+Now testing piece: knight at position: H4
+['G6', 'G2', 'F3', 'F5']
+Now testing piece: knight at position: H5
+['G7', 'G3', 'F4', 'F6']
+Now testing piece: knight at position: H6
+['G8', 'G4', 'F5', 'F7']
+Now testing piece: knight at position: H7
+['G5', 'F6', 'F8']
+Now testing piece: knight at position: H8
+['G6', 'F7']
+Now testing piece: bishop at position: A1
+['B2', 'C3', 'D4', 'E5', 'F6', 'G7', 'H8']
+Now testing piece: bishop at position: A2
+['B3', 'C4', 'D5', 'E6', 'F7', 'G8', 'B1']
+Now testing piece: bishop at position: A3
+['B4', 'C5', 'D6', 'E7', 'F8', 'B2', 'C1']
+Now testing piece: bishop at position: A4
+['B5', 'C6', 'D7', 'E8', 'B3', 'C2', 'D1']
+Now testing piece: bishop at position: A5
+['B6', 'C7', 'D8', 'B4', 'C3', 'D2', 'E1']
+Now testing piece: bishop at position: A6
+['B7', 'C8', 'B5', 'C4', 'D3', 'E2', 'F1']
+Now testing piece: bishop at position: A7
+['B8', 'B6', 'C5', 'D4', 'E3', 'F2', 'G1']
+Now testing piece: bishop at position: A8
+['B7', 'C6', 'D5', 'E4', 'F3', 'G2', 'H1']
+Now testing piece: bishop at position: B1
+['C2', 'D3', 'E4', 'F5', 'G6', 'H7', 'A2']
+Now testing piece: bishop at position: B2
+['C3', 'D4', 'E5', 'F6', 'G7', 'H8', 'C1', 'A1', 'A3']
+Now testing piece: bishop at position: B3
+['C4', 'D5', 'E6', 'F7', 'G8', 'C2', 'D1', 'A2', 'A4']
+Now testing piece: bishop at position: B4
+['C5', 'D6', 'E7', 'F8', 'C3', 'D2', 'E1', 'A3', 'A5']
+Now testing piece: bishop at position: B5
+['C6', 'D7', 'E8', 'C4', 'D3', 'E2', 'F1', 'A4', 'A6']
+Now testing piece: bishop at position: B6
+['C7', 'D8', 'C5', 'D4', 'E3', 'F2', 'G1', 'A5', 'A7']
+Now testing piece: bishop at position: B7
+['C8', 'C6', 'D5', 'E4', 'F3', 'G2', 'H1', 'A6', 'A8']
+Now testing piece: bishop at position: B8
+['C7', 'D6', 'E5', 'F4', 'G3', 'H2', 'A7']
+Now testing piece: bishop at position: C1
+['D2', 'E3', 'F4', 'G5', 'H6', 'B2', 'A3']
+Now testing piece: bishop at position: C2
+['D3', 'E4', 'F5', 'G6', 'H7', 'D1', 'B1', 'B3', 'A4']
+Now testing piece: bishop at position: C3
+['D4', 'E5', 'F6', 'G7', 'H8', 'D2', 'E1', 'B2', 'A1', 'B4', 'A5']
+Now testing piece: bishop at position: C4
+['D5', 'E6', 'F7', 'G8', 'D3', 'E2', 'F1', 'B3', 'A2', 'B5', 'A6']
+Now testing piece: bishop at position: C5
+['D6', 'E7', 'F8', 'D4', 'E3', 'F2', 'G1', 'B4', 'A3', 'B6', 'A7']
+Now testing piece: bishop at position: C6
+['D7', 'E8', 'D5', 'E4', 'F3', 'G2', 'H1', 'B5', 'A4', 'B7', 'A8']
+Now testing piece: bishop at position: C7
+['D8', 'D6', 'E5', 'F4', 'G3', 'H2', 'B6', 'A5', 'B8']
+Now testing piece: bishop at position: C8
+['D7', 'E6', 'F5', 'G4', 'H3', 'B7', 'A6']
+Now testing piece: bishop at position: D1
+['E2', 'F3', 'G4', 'H5', 'C2', 'B3', 'A4']
+Now testing piece: bishop at position: D2
+['E3', 'F4', 'G5', 'H6', 'E1', 'C1', 'C3', 'B4', 'A5']
+Now testing piece: bishop at position: D3
+['E4', 'F5', 'G6', 'H7', 'E2', 'F1', 'C2', 'B1', 'C4', 'B5', 'A6']
+Now testing piece: bishop at position: D4
+['E5', 'F6', 'G7', 'H8', 'E3', 'F2', 'G1', 'C3', 'B2', 'A1', 'C5', 'B6', 'A7']
+Now testing piece: bishop at position: D5
+['E6', 'F7', 'G8', 'E4', 'F3', 'G2', 'H1', 'C4', 'B3', 'A2', 'C6', 'B7', 'A8']
+Now testing piece: bishop at position: D6
+['E7', 'F8', 'E5', 'F4', 'G3', 'H2', 'C5', 'B4', 'A3', 'C7', 'B8']
+Now testing piece: bishop at position: D7
+['E8', 'E6', 'F5', 'G4', 'H3', 'C6', 'B5', 'A4', 'C8']
+Now testing piece: bishop at position: D8
+['E7', 'F6', 'G5', 'H4', 'C7', 'B6', 'A5']
+Now testing piece: bishop at position: E1
+['F2', 'G3', 'H4', 'D2', 'C3', 'B4', 'A5']
+Now testing piece: bishop at position: E2
+['F3', 'G4', 'H5', 'F1', 'D1', 'D3', 'C4', 'B5', 'A6']
+Now testing piece: bishop at position: E3
+['F4', 'G5', 'H6', 'F2', 'G1', 'D2', 'C1', 'D4', 'C5', 'B6', 'A7']
+Now testing piece: bishop at position: E4
+['F5', 'G6', 'H7', 'F3', 'G2', 'H1', 'D3', 'C2', 'B1', 'D5', 'C6', 'B7', 'A8']
+Now testing piece: bishop at position: E5
+['F6', 'G7', 'H8', 'F4', 'G3', 'H2', 'D4', 'C3', 'B2', 'A1', 'D6', 'C7', 'B8']
+Now testing piece: bishop at position: E6
+['F7', 'G8', 'F5', 'G4', 'H3', 'D5', 'C4', 'B3', 'A2', 'D7', 'C8']
+Now testing piece: bishop at position: E7
+['F8', 'F6', 'G5', 'H4', 'D6', 'C5', 'B4', 'A3', 'D8']
+Now testing piece: bishop at position: E8
+['F7', 'G6', 'H5', 'D7', 'C6', 'B5', 'A4']
+Now testing piece: bishop at position: F1
+['G2', 'H3', 'E2', 'D3', 'C4', 'B5', 'A6']
+Now testing piece: bishop at position: F2
+['G3', 'H4', 'G1', 'E1', 'E3', 'D4', 'C5', 'B6', 'A7']
+Now testing piece: bishop at position: F3
+['G4', 'H5', 'G2', 'H1', 'E2', 'D1', 'E4', 'D5', 'C6', 'B7', 'A8']
+Now testing piece: bishop at position: F4
+['G5', 'H6', 'G3', 'H2', 'E3', 'D2', 'C1', 'E5', 'D6', 'C7', 'B8']
+Now testing piece: bishop at position: F5
+['G6', 'H7', 'G4', 'H3', 'E4', 'D3', 'C2', 'B1', 'E6', 'D7', 'C8']
+Now testing piece: bishop at position: F6
+['G7', 'H8', 'G5', 'H4', 'E5', 'D4', 'C3', 'B2', 'A1', 'E7', 'D8']
+Now testing piece: bishop at position: F7
+['G8', 'G6', 'H5', 'E6', 'D5', 'C4', 'B3', 'A2', 'E8']
+Now testing piece: bishop at position: F8
+['G7', 'H6', 'E7', 'D6', 'C5', 'B4', 'A3']
+Now testing piece: bishop at position: G1
+['H2', 'F2', 'E3', 'D4', 'C5', 'B6', 'A7']
+Now testing piece: bishop at position: G2
+['H3', 'H1', 'F1', 'F3', 'E4', 'D5', 'C6', 'B7', 'A8']
+Now testing piece: bishop at position: G3
+['H4', 'H2', 'F2', 'E1', 'F4', 'E5', 'D6', 'C7', 'B8']
+Now testing piece: bishop at position: G4
+['H5', 'H3', 'F3', 'E2', 'D1', 'F5', 'E6', 'D7', 'C8']
+Now testing piece: bishop at position: G5
+['H6', 'H4', 'F4', 'E3', 'D2', 'C1', 'F6', 'E7', 'D8']
+Now testing piece: bishop at position: G6
+['H7', 'H5', 'F5', 'E4', 'D3', 'C2', 'B1', 'F7', 'E8']
+Now testing piece: bishop at position: G7
+['H8', 'H6', 'F6', 'E5', 'D4', 'C3', 'B2', 'A1', 'F8']
+Now testing piece: bishop at position: G8
+['H7', 'F7', 'E6', 'D5', 'C4', 'B3', 'A2']
+Now testing piece: bishop at position: H1
+['G2', 'F3', 'E4', 'D5', 'C6', 'B7', 'A8']
+Now testing piece: bishop at position: H2
+['G1', 'G3', 'F4', 'E5', 'D6', 'C7', 'B8']
+Now testing piece: bishop at position: H3
+['G2', 'F1', 'G4', 'F5', 'E6', 'D7', 'C8']
+Now testing piece: bishop at position: H4
+['G3', 'F2', 'E1', 'G5', 'F6', 'E7', 'D8']
+Now testing piece: bishop at position: H5
+['G4', 'F3', 'E2', 'D1', 'G6', 'F7', 'E8']
+Now testing piece: bishop at position: H6
+['G5', 'F4', 'E3', 'D2', 'C1', 'G7', 'F8']
+Now testing piece: bishop at position: H7
+['G6', 'F5', 'E4', 'D3', 'C2', 'B1', 'G8']
+Now testing piece: bishop at position: H8
+['G7', 'F6', 'E5', 'D4', 'C3', 'B2', 'A1']
+Now testing piece: queen at position: A1
+['A2', 'A3', 'A4', 'A5', 'A6', 'A7', 'A8', 'B2', 'C3', 'D4', 'E5', 'F6', 'G7', 'H8', 'B1', 'C1', 'D1', 'E1', 'F1', 'G1', 'H1']
+Now testing piece: queen at position: A2
+['A3', 'A4', 'A5', 'A6', 'A7', 'A8', 'B3', 'C4', 'D5', 'E6', 'F7', 'G8', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'B1', 'A1']
+Now testing piece: queen at position: A3
+['A4', 'A5', 'A6', 'A7', 'A8', 'B4', 'C5', 'D6', 'E7', 'F8', 'B3', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'B2', 'C1', 'A2', 'A1']
+Now testing piece: queen at position: A4
+['A5', 'A6', 'A7', 'A8', 'B5', 'C6', 'D7', 'E8', 'B4', 'C4', 'D4', 'E4', 'F4', 'G4', 'H4', 'B3', 'C2', 'D1', 'A3', 'A2', 'A1']
+Now testing piece: queen at position: A5
+['A6', 'A7', 'A8', 'B6', 'C7', 'D8', 'B5', 'C5', 'D5', 'E5', 'F5', 'G5', 'H5', 'B4', 'C3', 'D2', 'E1', 'A4', 'A3', 'A2', 'A1']
+Now testing piece: queen at position: A6
+['A7', 'A8', 'B7', 'C8', 'B6', 'C6', 'D6', 'E6', 'F6', 'G6', 'H6', 'B5', 'C4', 'D3', 'E2', 'F1', 'A5', 'A4', 'A3', 'A2', 'A1']
+Now testing piece: queen at position: A7
+['A8', 'B8', 'B7', 'C7', 'D7', 'E7', 'F7', 'G7', 'H7', 'B6', 'C5', 'D4', 'E3', 'F2', 'G1', 'A6', 'A5', 'A4', 'A3', 'A2', 'A1']
+Now testing piece: queen at position: A8
+['B8', 'C8', 'D8', 'E8', 'F8', 'G8', 'H8', 'B7', 'C6', 'D5', 'E4', 'F3', 'G2', 'H1', 'A7', 'A6', 'A5', 'A4', 'A3', 'A2', 'A1']
+Now testing piece: queen at position: B1
+['B2', 'B3', 'B4', 'B5', 'B6', 'B7', 'B8', 'C2', 'D3', 'E4', 'F5', 'G6', 'H7', 'C1', 'D1', 'E1', 'F1', 'G1', 'H1', 'A1', 'A2']
+Now testing piece: queen at position: B2
+['B3', 'B4', 'B5', 'B6', 'B7', 'B8', 'C3', 'D4', 'E5', 'F6', 'G7', 'H8', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'C1', 'B1', 'A1', 'A2', 'A3']
+Now testing piece: queen at position: B3
+['B4', 'B5', 'B6', 'B7', 'B8', 'C4', 'D5', 'E6', 'F7', 'G8', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'C2', 'D1', 'B2', 'B1', 'A2', 'A3', 'A4']
+Now testing piece: queen at position: B4
+['B5', 'B6', 'B7', 'B8', 'C5', 'D6', 'E7', 'F8', 'C4', 'D4', 'E4', 'F4', 'G4', 'H4', 'C3', 'D2', 'E1', 'B3', 'B2', 'B1', 'A3', 'A4', 'A5']
+Now testing piece: queen at position: B5
+['B6', 'B7', 'B8', 'C6', 'D7', 'E8', 'C5', 'D5', 'E5', 'F5', 'G5', 'H5', 'C4', 'D3', 'E2', 'F1', 'B4', 'B3', 'B2', 'B1', 'A4', 'A5', 'A6']
+Now testing piece: queen at position: B6
+['B7', 'B8', 'C7', 'D8', 'C6', 'D6', 'E6', 'F6', 'G6', 'H6', 'C5', 'D4', 'E3', 'F2', 'G1', 'B5', 'B4', 'B3', 'B2', 'B1', 'A5', 'A6', 'A7']
+Now testing piece: queen at position: B7
+['B8', 'C8', 'C7', 'D7', 'E7', 'F7', 'G7', 'H7', 'C6', 'D5', 'E4', 'F3', 'G2', 'H1', 'B6', 'B5', 'B4', 'B3', 'B2', 'B1', 'A6', 'A7', 'A8']
+Now testing piece: queen at position: B8
+['C8', 'D8', 'E8', 'F8', 'G8', 'H8', 'C7', 'D6', 'E5', 'F4', 'G3', 'H2', 'B7', 'B6', 'B5', 'B4', 'B3', 'B2', 'B1', 'A7', 'A8']
+Now testing piece: queen at position: C1
+['C2', 'C3', 'C4', 'C5', 'C6', 'C7', 'C8', 'D2', 'E3', 'F4', 'G5', 'H6', 'D1', 'E1', 'F1', 'G1', 'H1', 'B1', 'A1', 'B2', 'A3']
+Now testing piece: queen at position: C2
+['C3', 'C4', 'C5', 'C6', 'C7', 'C8', 'D3', 'E4', 'F5', 'G6', 'H7', 'D2', 'E2', 'F2', 'G2', 'H2', 'D1', 'C1', 'B1', 'B2', 'A2', 'B3', 'A4']
+Now testing piece: queen at position: C3
+['C4', 'C5', 'C6', 'C7', 'C8', 'D4', 'E5', 'F6', 'G7', 'H8', 'D3', 'E3', 'F3', 'G3', 'H3', 'D2', 'E1', 'C2', 'C1', 'B2', 'A1', 'B3', 'A3', 'B4', 'A5']
+Now testing piece: queen at position: C4
+['C5', 'C6', 'C7', 'C8', 'D5', 'E6', 'F7', 'G8', 'D4', 'E4', 'F4', 'G4', 'H4', 'D3', 'E2', 'F1', 'C3', 'C2', 'C1', 'B3', 'A2', 'B4', 'A4', 'B5', 'A6']
+Now testing piece: queen at position: C5
+['C6', 'C7', 'C8', 'D6', 'E7', 'F8', 'D5', 'E5', 'F5', 'G5', 'H5', 'D4', 'E3', 'F2', 'G1', 'C4', 'C3', 'C2', 'C1', 'B4', 'A3', 'B5', 'A5', 'B6', 'A7']
+Now testing piece: queen at position: C6
+['C7', 'C8', 'D7', 'E8', 'D6', 'E6', 'F6', 'G6', 'H6', 'D5', 'E4', 'F3', 'G2', 'H1', 'C5', 'C4', 'C3', 'C2', 'C1', 'B5', 'A4', 'B6', 'A6', 'B7', 'A8']
+Now testing piece: queen at position: C7
+['C8', 'D8', 'D7', 'E7', 'F7', 'G7', 'H7', 'D6', 'E5', 'F4', 'G3', 'H2', 'C6', 'C5', 'C4', 'C3', 'C2', 'C1', 'B6', 'A5', 'B7', 'A7', 'B8']
+Now testing piece: queen at position: C8
+['D8', 'E8', 'F8', 'G8', 'H8', 'D7', 'E6', 'F5', 'G4', 'H3', 'C7', 'C6', 'C5', 'C4', 'C3', 'C2', 'C1', 'B7', 'A6', 'B8', 'A8']
+Now testing piece: queen at position: D1
+['D2', 'D3', 'D4', 'D5', 'D6', 'D7', 'D8', 'E2', 'F3', 'G4', 'H5', 'E1', 'F1', 'G1', 'H1', 'C1', 'B1', 'A1', 'C2', 'B3', 'A4']
+Now testing piece: queen at position: D2
+['D3', 'D4', 'D5', 'D6', 'D7', 'D8', 'E3', 'F4', 'G5', 'H6', 'E2', 'F2', 'G2', 'H2', 'E1', 'D1', 'C1', 'C2', 'B2', 'A2', 'C3', 'B4', 'A5']
+Now testing piece: queen at position: D3
+['D4', 'D5', 'D6', 'D7', 'D8', 'E4', 'F5', 'G6', 'H7', 'E3', 'F3', 'G3', 'H3', 'E2', 'F1', 'D2', 'D1', 'C2', 'B1', 'C3', 'B3', 'A3', 'C4', 'B5', 'A6']
+Now testing piece: queen at position: D4
+['D5', 'D6', 'D7', 'D8', 'E5', 'F6', 'G7', 'H8', 'E4', 'F4', 'G4', 'H4', 'E3', 'F2', 'G1', 'D3', 'D2', 'D1', 'C3', 'B2', 'A1', 'C4', 'B4', 'A4', 'C5', 'B6', 'A7']
+Now testing piece: queen at position: D5
+['D6', 'D7', 'D8', 'E6', 'F7', 'G8', 'E5', 'F5', 'G5', 'H5', 'E4', 'F3', 'G2', 'H1', 'D4', 'D3', 'D2', 'D1', 'C4', 'B3', 'A2', 'C5', 'B5', 'A5', 'C6', 'B7', 'A8']
+Now testing piece: queen at position: D6
+['D7', 'D8', 'E7', 'F8', 'E6', 'F6', 'G6', 'H6', 'E5', 'F4', 'G3', 'H2', 'D5', 'D4', 'D3', 'D2', 'D1', 'C5', 'B4', 'A3', 'C6', 'B6', 'A6', 'C7', 'B8']
+Now testing piece: queen at position: D7
+['D8', 'E8', 'E7', 'F7', 'G7', 'H7', 'E6', 'F5', 'G4', 'H3', 'D6', 'D5', 'D4', 'D3', 'D2', 'D1', 'C6', 'B5', 'A4', 'C7', 'B7', 'A7', 'C8']
+Now testing piece: queen at position: D8
+['E8', 'F8', 'G8', 'H8', 'E7', 'F6', 'G5', 'H4', 'D7', 'D6', 'D5', 'D4', 'D3', 'D2', 'D1', 'C7', 'B6', 'A5', 'C8', 'B8', 'A8']
+Now testing piece: queen at position: E1
+['E2', 'E3', 'E4', 'E5', 'E6', 'E7', 'E8', 'F2', 'G3', 'H4', 'F1', 'G1', 'H1', 'D1', 'C1', 'B1', 'A1', 'D2', 'C3', 'B4', 'A5']
+Now testing piece: queen at position: E2
+['E3', 'E4', 'E5', 'E6', 'E7', 'E8', 'F3', 'G4', 'H5', 'F2', 'G2', 'H2', 'F1', 'E1', 'D1', 'D2', 'C2', 'B2', 'A2', 'D3', 'C4', 'B5', 'A6']
+Now testing piece: queen at position: E3
+['E4', 'E5', 'E6', 'E7', 'E8', 'F4', 'G5', 'H6', 'F3', 'G3', 'H3', 'F2', 'G1', 'E2', 'E1', 'D2', 'C1', 'D3', 'C3', 'B3', 'A3', 'D4', 'C5', 'B6', 'A7']
+Now testing piece: queen at position: E4
+['E5', 'E6', 'E7', 'E8', 'F5', 'G6', 'H7', 'F4', 'G4', 'H4', 'F3', 'G2', 'H1', 'E3', 'E2', 'E1', 'D3', 'C2', 'B1', 'D4', 'C4', 'B4', 'A4', 'D5', 'C6', 'B7', 'A8']
+Now testing piece: queen at position: E5
+['E6', 'E7', 'E8', 'F6', 'G7', 'H8', 'F5', 'G5', 'H5', 'F4', 'G3', 'H2', 'E4', 'E3', 'E2', 'E1', 'D4', 'C3', 'B2', 'A1', 'D5', 'C5', 'B5', 'A5', 'D6', 'C7', 'B8']
+Now testing piece: queen at position: E6
+['E7', 'E8', 'F7', 'G8', 'F6', 'G6', 'H6', 'F5', 'G4', 'H3', 'E5', 'E4', 'E3', 'E2', 'E1', 'D5', 'C4', 'B3', 'A2', 'D6', 'C6', 'B6', 'A6', 'D7', 'C8']
+Now testing piece: queen at position: E7
+['E8', 'F8', 'F7', 'G7', 'H7', 'F6', 'G5', 'H4', 'E6', 'E5', 'E4', 'E3', 'E2', 'E1', 'D6', 'C5', 'B4', 'A3', 'D7', 'C7', 'B7', 'A7', 'D8']
+Now testing piece: queen at position: E8
+['F8', 'G8', 'H8', 'F7', 'G6', 'H5', 'E7', 'E6', 'E5', 'E4', 'E3', 'E2', 'E1', 'D7', 'C6', 'B5', 'A4', 'D8', 'C8', 'B8', 'A8']
+Now testing piece: queen at position: F1
+['F2', 'F3', 'F4', 'F5', 'F6', 'F7', 'F8', 'G2', 'H3', 'G1', 'H1', 'E1', 'D1', 'C1', 'B1', 'A1', 'E2', 'D3', 'C4', 'B5', 'A6']
+Now testing piece: queen at position: F2
+['F3', 'F4', 'F5', 'F6', 'F7', 'F8', 'G3', 'H4', 'G2', 'H2', 'G1', 'F1', 'E1', 'E2', 'D2', 'C2', 'B2', 'A2', 'E3', 'D4', 'C5', 'B6', 'A7']
+Now testing piece: queen at position: F3
+['F4', 'F5', 'F6', 'F7', 'F8', 'G4', 'H5', 'G3', 'H3', 'G2', 'H1', 'F2', 'F1', 'E2', 'D1', 'E3', 'D3', 'C3', 'B3', 'A3', 'E4', 'D5', 'C6', 'B7', 'A8']
+Now testing piece: queen at position: F4
+['F5', 'F6', 'F7', 'F8', 'G5', 'H6', 'G4', 'H4', 'G3', 'H2', 'F3', 'F2', 'F1', 'E3', 'D2', 'C1', 'E4', 'D4', 'C4', 'B4', 'A4', 'E5', 'D6', 'C7', 'B8']
+Now testing piece: queen at position: F5
+['F6', 'F7', 'F8', 'G6', 'H7', 'G5', 'H5', 'G4', 'H3', 'F4', 'F3', 'F2', 'F1', 'E4', 'D3', 'C2', 'B1', 'E5', 'D5', 'C5', 'B5', 'A5', 'E6', 'D7', 'C8']
+Now testing piece: queen at position: F6
+['F7', 'F8', 'G7', 'H8', 'G6', 'H6', 'G5', 'H4', 'F5', 'F4', 'F3', 'F2', 'F1', 'E5', 'D4', 'C3', 'B2', 'A1', 'E6', 'D6', 'C6', 'B6', 'A6', 'E7', 'D8']
+Now testing piece: queen at position: F7
+['F8', 'G8', 'G7', 'H7', 'G6', 'H5', 'F6', 'F5', 'F4', 'F3', 'F2', 'F1', 'E6', 'D5', 'C4', 'B3', 'A2', 'E7', 'D7', 'C7', 'B7', 'A7', 'E8']
+Now testing piece: queen at position: F8
+['G8', 'H8', 'G7', 'H6', 'F7', 'F6', 'F5', 'F4', 'F3', 'F2', 'F1', 'E7', 'D6', 'C5', 'B4', 'A3', 'E8', 'D8', 'C8', 'B8', 'A8']
+Now testing piece: queen at position: G1
+['G2', 'G3', 'G4', 'G5', 'G6', 'G7', 'G8', 'H2', 'H1', 'F1', 'E1', 'D1', 'C1', 'B1', 'A1', 'F2', 'E3', 'D4', 'C5', 'B6', 'A7']
+Now testing piece: queen at position: G2
+['G3', 'G4', 'G5', 'G6', 'G7', 'G8', 'H3', 'H2', 'H1', 'G1', 'F1', 'F2', 'E2', 'D2', 'C2', 'B2', 'A2', 'F3', 'E4', 'D5', 'C6', 'B7', 'A8']
+Now testing piece: queen at position: G3
+['G4', 'G5', 'G6', 'G7', 'G8', 'H4', 'H3', 'H2', 'G2', 'G1', 'F2', 'E1', 'F3', 'E3', 'D3', 'C3', 'B3', 'A3', 'F4', 'E5', 'D6', 'C7', 'B8']
+Now testing piece: queen at position: G4
+['G5', 'G6', 'G7', 'G8', 'H5', 'H4', 'H3', 'G3', 'G2', 'G1', 'F3', 'E2', 'D1', 'F4', 'E4', 'D4', 'C4', 'B4', 'A4', 'F5', 'E6', 'D7', 'C8']
+Now testing piece: queen at position: G5
+['G6', 'G7', 'G8', 'H6', 'H5', 'H4', 'G4', 'G3', 'G2', 'G1', 'F4', 'E3', 'D2', 'C1', 'F5', 'E5', 'D5', 'C5', 'B5', 'A5', 'F6', 'E7', 'D8']
+Now testing piece: queen at position: G6
+['G7', 'G8', 'H7', 'H6', 'H5', 'G5', 'G4', 'G3', 'G2', 'G1', 'F5', 'E4', 'D3', 'C2', 'B1', 'F6', 'E6', 'D6', 'C6', 'B6', 'A6', 'F7', 'E8']
+Now testing piece: queen at position: G7
+['G8', 'H8', 'H7', 'H6', 'G6', 'G5', 'G4', 'G3', 'G2', 'G1', 'F6', 'E5', 'D4', 'C3', 'B2', 'A1', 'F7', 'E7', 'D7', 'C7', 'B7', 'A7', 'F8']
+Now testing piece: queen at position: G8
+['H8', 'H7', 'G7', 'G6', 'G5', 'G4', 'G3', 'G2', 'G1', 'F7', 'E6', 'D5', 'C4', 'B3', 'A2', 'F8', 'E8', 'D8', 'C8', 'B8', 'A8']
+Now testing piece: queen at position: H1
+['H2', 'H3', 'H4', 'H5', 'H6', 'H7', 'H8', 'G1', 'F1', 'E1', 'D1', 'C1', 'B1', 'A1', 'G2', 'F3', 'E4', 'D5', 'C6', 'B7', 'A8']
+Now testing piece: queen at position: H2
+['H3', 'H4', 'H5', 'H6', 'H7', 'H8', 'H1', 'G1', 'G2', 'F2', 'E2', 'D2', 'C2', 'B2', 'A2', 'G3', 'F4', 'E5', 'D6', 'C7', 'B8']
+Now testing piece: queen at position: H3
+['H4', 'H5', 'H6', 'H7', 'H8', 'H2', 'H1', 'G2', 'F1', 'G3', 'F3', 'E3', 'D3', 'C3', 'B3', 'A3', 'G4', 'F5', 'E6', 'D7', 'C8']
+Now testing piece: queen at position: H4
+['H5', 'H6', 'H7', 'H8', 'H3', 'H2', 'H1', 'G3', 'F2', 'E1', 'G4', 'F4', 'E4', 'D4', 'C4', 'B4', 'A4', 'G5', 'F6', 'E7', 'D8']
+Now testing piece: queen at position: H5
+['H6', 'H7', 'H8', 'H4', 'H3', 'H2', 'H1', 'G4', 'F3', 'E2', 'D1', 'G5', 'F5', 'E5', 'D5', 'C5', 'B5', 'A5', 'G6', 'F7', 'E8']
+Now testing piece: queen at position: H6
+['H7', 'H8', 'H5', 'H4', 'H3', 'H2', 'H1', 'G5', 'F4', 'E3', 'D2', 'C1', 'G6', 'F6', 'E6', 'D6', 'C6', 'B6', 'A6', 'G7', 'F8']
+Now testing piece: queen at position: H7
+['H8', 'H6', 'H5', 'H4', 'H3', 'H2', 'H1', 'G6', 'F5', 'E4', 'D3', 'C2', 'B1', 'G7', 'F7', 'E7', 'D7', 'C7', 'B7', 'A7', 'G8']
+Now testing piece: queen at position: H8
+['H7', 'H6', 'H5', 'H4', 'H3', 'H2', 'H1', 'G7', 'F6', 'E5', 'D4', 'C3', 'B2', 'A1', 'G8', 'F8', 'E8', 'D8', 'C8', 'B8', 'A8']
+Now testing piece: king at position: A1
+['A2', 'B2', 'B1']
+Now testing piece: king at position: A2
+['A3', 'B3', 'B2', 'B1', 'A1']
+Now testing piece: king at position: A3
+['A4', 'B4', 'B3', 'B2', 'A2']
+Now testing piece: king at position: A4
+['A5', 'B5', 'B4', 'B3', 'A3']
+Now testing piece: king at position: A5
+['A6', 'B6', 'B5', 'B4', 'A4']
+Now testing piece: king at position: A6
+['A7', 'B7', 'B6', 'B5', 'A5']
+Now testing piece: king at position: A7
+['A8', 'B8', 'B7', 'B6', 'A6']
+Now testing piece: king at position: A8
+['B8', 'B7', 'A7']
+Now testing piece: king at position: B1
+['B2', 'C2', 'C1', 'A1', 'A2']
+Now testing piece: king at position: B2
+['B3', 'C3', 'C2', 'C1', 'B1', 'A1', 'A2', 'A3']
+Now testing piece: king at position: B3
+['B4', 'C4', 'C3', 'C2', 'B2', 'A2', 'A3', 'A4']
+Now testing piece: king at position: B4
+['B5', 'C5', 'C4', 'C3', 'B3', 'A3', 'A4', 'A5']
+Now testing piece: king at position: B5
+['B6', 'C6', 'C5', 'C4', 'B4', 'A4', 'A5', 'A6']
+Now testing piece: king at position: B6
+['B7', 'C7', 'C6', 'C5', 'B5', 'A5', 'A6', 'A7']
+Now testing piece: king at position: B7
+['B8', 'C8', 'C7', 'C6', 'B6', 'A6', 'A7', 'A8']
+Now testing piece: king at position: B8
+['C8', 'C7', 'B7', 'A7', 'A8']
+Now testing piece: king at position: C1
+['C2', 'D2', 'D1', 'B1', 'B2']
+Now testing piece: king at position: C2
+['C3', 'D3', 'D2', 'D1', 'C1', 'B1', 'B2', 'B3']
+Now testing piece: king at position: C3
+['C4', 'D4', 'D3', 'D2', 'C2', 'B2', 'B3', 'B4']
+Now testing piece: king at position: C4
+['C5', 'D5', 'D4', 'D3', 'C3', 'B3', 'B4', 'B5']
+Now testing piece: king at position: C5
+['C6', 'D6', 'D5', 'D4', 'C4', 'B4', 'B5', 'B6']
+Now testing piece: king at position: C6
+['C7', 'D7', 'D6', 'D5', 'C5', 'B5', 'B6', 'B7']
+Now testing piece: king at position: C7
+['C8', 'D8', 'D7', 'D6', 'C6', 'B6', 'B7', 'B8']
+Now testing piece: king at position: C8
+['D8', 'D7', 'C7', 'B7', 'B8']
+Now testing piece: king at position: D1
+['D2', 'E2', 'E1', 'C1', 'C2']
+Now testing piece: king at position: D2
+['D3', 'E3', 'E2', 'E1', 'D1', 'C1', 'C2', 'C3']
+Now testing piece: king at position: D3
+['D4', 'E4', 'E3', 'E2', 'D2', 'C2', 'C3', 'C4']
+Now testing piece: king at position: D4
+['D5', 'E5', 'E4', 'E3', 'D3', 'C3', 'C4', 'C5']
+Now testing piece: king at position: D5
+['D6', 'E6', 'E5', 'E4', 'D4', 'C4', 'C5', 'C6']
+Now testing piece: king at position: D6
+['D7', 'E7', 'E6', 'E5', 'D5', 'C5', 'C6', 'C7']
+Now testing piece: king at position: D7
+['D8', 'E8', 'E7', 'E6', 'D6', 'C6', 'C7', 'C8']
+Now testing piece: king at position: D8
+['E8', 'E7', 'D7', 'C7', 'C8']
+Now testing piece: king at position: E1
+['E2', 'F2', 'F1', 'D1', 'D2']
+Now testing piece: king at position: E2
+['E3', 'F3', 'F2', 'F1', 'E1', 'D1', 'D2', 'D3']
+Now testing piece: king at position: E3
+['E4', 'F4', 'F3', 'F2', 'E2', 'D2', 'D3', 'D4']
+Now testing piece: king at position: E4
+['E5', 'F5', 'F4', 'F3', 'E3', 'D3', 'D4', 'D5']
+Now testing piece: king at position: E5
+['E6', 'F6', 'F5', 'F4', 'E4', 'D4', 'D5', 'D6']
+Now testing piece: king at position: E6
+['E7', 'F7', 'F6', 'F5', 'E5', 'D5', 'D6', 'D7']
+Now testing piece: king at position: E7
+['E8', 'F8', 'F7', 'F6', 'E6', 'D6', 'D7', 'D8']
+Now testing piece: king at position: E8
+['F8', 'F7', 'E7', 'D7', 'D8']
+Now testing piece: king at position: F1
+['F2', 'G2', 'G1', 'E1', 'E2']
+Now testing piece: king at position: F2
+['F3', 'G3', 'G2', 'G1', 'F1', 'E1', 'E2', 'E3']
+Now testing piece: king at position: F3
+['F4', 'G4', 'G3', 'G2', 'F2', 'E2', 'E3', 'E4']
+Now testing piece: king at position: F4
+['F5', 'G5', 'G4', 'G3', 'F3', 'E3', 'E4', 'E5']
+Now testing piece: king at position: F5
+['F6', 'G6', 'G5', 'G4', 'F4', 'E4', 'E5', 'E6']
+Now testing piece: king at position: F6
+['F7', 'G7', 'G6', 'G5', 'F5', 'E5', 'E6', 'E7']
+Now testing piece: king at position: F7
+['F8', 'G8', 'G7', 'G6', 'F6', 'E6', 'E7', 'E8']
+Now testing piece: king at position: F8
+['G8', 'G7', 'F7', 'E7', 'E8']
+Now testing piece: king at position: G1
+['G2', 'H2', 'H1', 'F1', 'F2']
+Now testing piece: king at position: G2
+['G3', 'H3', 'H2', 'H1', 'G1', 'F1', 'F2', 'F3']
+Now testing piece: king at position: G3
+['G4', 'H4', 'H3', 'H2', 'G2', 'F2', 'F3', 'F4']
+Now testing piece: king at position: G4
+['G5', 'H5', 'H4', 'H3', 'G3', 'F3', 'F4', 'F5']
+Now testing piece: king at position: G5
+['G6', 'H6', 'H5', 'H4', 'G4', 'F4', 'F5', 'F6']
+Now testing piece: king at position: G6
+['G7', 'H7', 'H6', 'H5', 'G5', 'F5', 'F6', 'F7']
+Now testing piece: king at position: G7
+['G8', 'H8', 'H7', 'H6', 'G6', 'F6', 'F7', 'F8']
+Now testing piece: king at position: G8
+['H8', 'H7', 'G7', 'F7', 'F8']
+Now testing piece: king at position: H1
+['H2', 'G1', 'G2']
+Now testing piece: king at position: H2
+['H3', 'H1', 'G1', 'G2', 'G3']
+Now testing piece: king at position: H3
+['H4', 'H2', 'G2', 'G3', 'G4']
+Now testing piece: king at position: H4
+['H5', 'H3', 'G3', 'G4', 'G5']
+Now testing piece: king at position: H5
+['H6', 'H4', 'G4', 'G5', 'G6']
+Now testing piece: king at position: H6
+['H7', 'H5', 'G5', 'G6', 'G7']
+Now testing piece: king at position: H7
+['H8', 'H6', 'G6', 'G7', 'G8']
+Now testing piece: king at position: H8
+['H7', 'G7', 'G8']

@@ -20,7 +20,7 @@ To run the chess program please run:
 python chessercise.py -piece (piece name) -position (position)
   
 For example: 
-python chessercise.py -piece pawn -position a1
+python chessercise.py -piece pawn -position a2
 
 You can also run it in test mode by running:
 

@@ -64,13 +64,11 @@ class Guesser():
 
   def process_guess_response(self, resp):
     if resp == 'h': # guess was too high
-      #print('ok my guess was too high')
       #check to see if there is only 1 other solution
       if self.current_guess - self.lower_limit  == 1:
         return self.show_solution(self.lower_limit)
       self.upper_limit = self.current_guess - 1
     if resp == 'l': #guess was too low
-      #print('ok my guess was too low')
       if self.upper_limit - self.current_guess == 1:
         #print('upper limit = {}'.format(self.upper_limit))
         return self.show_solution(self.upper_limit)
